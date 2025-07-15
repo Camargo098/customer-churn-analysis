@@ -5,29 +5,31 @@ Este projeto tem como objetivo prever a probabilidade de churn (evasão) de clie
 ## Objetivo do Projeto ##
 Construir um modelo de machine learning capz de prever a probabilidade de um cliente encerrar seu relacionamento com o banco, auxiliando a àrea de retenção proativa de clientes e redução da taxa de churn.
 
-## Estrutura de Diretório ##
+# 📁 Estrutura do Projeto
 
+```bash
 customer-churn-prediction/
-|
-|__  Data/
-|   |--Raw/customer-churn-prediction/
 │
-├── data/                      # Base de dados original e tratada
-│   ├── raw/                   # Dados brutos
-│   └── processed/             # Dados pós-tratamento e engenharia de atributos
+├── Data/
+│   └── Raw/
+│       └── customer-churn-prediction/     # Dados brutos originais
 │
-├── eda/                       # Notebooks e scripts de análise exploratória
+├── data/                                  # Base de dados original e tratada
+│   ├── raw/                               # Dados brutos
+│   └── processed/                         # Dados pós-tratamento e engenharia de atributos
 │
-├── models/                    # Treinamento, comparação e avaliação de modelos
+├── eda/                                   # Notebooks e scripts de análise exploratória
 │
-├── outputs/                   # Imagens, gráficos e resultados finais
+├── models/                                # Treinamento, comparação e avaliação de modelos
 │
-├── utils/                     # Funções auxiliares e scripts de suporte
+├── outputs/                               # Imagens, gráficos e resultados finais
 │
+├── utils/                                 # Funções auxiliares e scripts de suporte
 │
-├── README.md                 
-├── requirements.txt           # Bibliotecas necessárias para reproduzir o projeto
-└── churn_prediction.ipynb     # Notebook principal do projeto
+├── README.md                              # Documentação do projeto
+├── requirements.txt                       # Bibliotecas necessárias para reproduzir o projeto
+└── churn_prediction.ipynb                 # Notebook principal do projeto
+
 
 ## Metodologia (CRIP-DM)
 1. Entendimento do Negócio
