@@ -30,6 +30,4 @@ customer-churn-prediction/
 ├── requirements.txt                       # Bibliotecas necessárias para reproduzir o projeto
 └── churn_prediction.ipynb                 # Notebook principal do projeto
 
-
-## Metodologia (CRIP-DM)
-1. Entendimento do Negócio
+```
