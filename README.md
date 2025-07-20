@@ -21,7 +21,7 @@ A equipe de um banco está preocupada com uma crescente taxa de cancelamento de 
 
 Com isso, espera-se atacar a raiz do problema de churn e torna-lo previsível e gerenciavel.
 
-O desenvolvimento da solução será baseado na metodologia **CRIP-DM**
+O desenvolvimento da solução será baseado na metodologia **CRISP-DM**
 1. Definir o problema de negócio.
 2. Coletar os dados e objet uma visão geral.
 3. Dividir os dados entre conjunto de treinamento e conjunto de teste.
