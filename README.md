@@ -33,4 +33,4 @@ O desenvolvimento da solução será baseado na metodologia **CRISP-DM**
 9. Deploy
 
     
-**Confira o projeto** [aquii](https://github.com/Camargo098/customer-churn-analysis/blob/main/churn-analysis.ipynb)
+**Confira o projeto** [aqui](https://github.com/Camargo098/customer-churn-analysis/blob/main/churn-analysis.ipynb)
